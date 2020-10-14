@@ -1,4 +1,4 @@
-# Automation testing videos of Mobile (iOS and Android), and Web Application.
+# Automation testing videos of Mobile and Web Application.
 
 # Mobile UI Testing:
 iOS Automated Testing using; Python, Appium and Selenium.
