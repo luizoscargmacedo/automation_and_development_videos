@@ -1,4 +1,4 @@
-# Automation testing videos
+# Automation testing videos of Mobile (iOS and Android; Python, Appium, Selenium and Allure Report), Web Application (BDD, Selenium, Ruby, with Cucumber and Capybara using Gherkin syntax).
 
 
 # Mobile UI Testing:
