@@ -67,4 +67,17 @@ Results report (Allure Framework).
 - url:https://www.linkedin.com/feed/update/urn:li:activity:6671054007861047296/
 
 
+-------------------------------
+
+
+# Mutation Testing
+PIT runs your unit tests against automatically modified versions of your application code. When the application code changes, it should produce different results and cause the unit tests to fail. If a unit test does not fail in this situation, it may indicate an issue with the test suite.
+
+The quality of your tests can be gauged from the percentage of mutations killed.
+
+It is a good practice to validate your Unit Testing with a mutant before CI/CD, or we can make it part of the CI process (be careful, each team needs to do a time impact analysis about mutation testing in your project).
+
+- url:https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6727605047363964928/
+
+
 
