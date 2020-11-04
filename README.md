@@ -46,7 +46,7 @@ Results (Allure Framework); error identified and registered on Allure Report.
 -------------------------------
 
 
-# Web Application Automated Testing
+# Web Application Automated Testing using Ruby,Capybara with Cucumber
 Running Selenium tests using Ruby, with Cucumber and Capybara. It follows Behavior Driven Development (BDD) methodology, this "Automation Testing" has an invalid ID on the fourth step of "Login Scenario", just to simulate better a specific situation when we can identify some error during the report validation.
 
 I am always striving and studying to improve the ability to recommend several different possible approaches, using different combinations of testing tools and techniques with Agile Testing methods.
@@ -59,7 +59,7 @@ Results registered on Cucumber (Basic Report)
 -------------------------------
 
 
-# Executing Test on Real Device for Android
+# Executing Test on Real Device for Android using Python
 Mobile automation simplified on real and virtual device; Android Automated Testing using Python, Appium and Selenium. I developed a simple scenario just to provide a basic validation run (Smoke Testing).
 
 Results report (Allure Framework).
@@ -70,7 +70,7 @@ Results report (Allure Framework).
 -------------------------------
 
 
-# Mutation Testing
+# Mutation Testing using Java, JUnit and Maven
 PIT runs your unit tests against automatically modified versions of your application code. When the application code changes, it should produce different results and cause the unit tests to fail. If a unit test does not fail in this situation, it may indicate an issue with the test suite.
 
 The quality of your tests can be gauged from the percentage of mutations killed.
