@@ -46,7 +46,7 @@ Results (Allure Framework); error identified and registered on Allure Report.
 -------------------------------
 
 
-# Web Application Automated Testing using Ruby,Capybara with Cucumber
+# Web Application Automated Testing using Ruby, Capybara with Cucumber
 Running Selenium tests using Ruby, with Cucumber and Capybara. It follows Behavior Driven Development (BDD) methodology, this "Automation Testing" has an invalid ID on the fourth step of "Login Scenario", just to simulate better a specific situation when we can identify some error during the report validation.
 
 I am always striving and studying to improve the ability to recommend several different possible approaches, using different combinations of testing tools and techniques with Agile Testing methods.
