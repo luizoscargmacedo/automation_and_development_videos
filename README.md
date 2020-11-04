@@ -1,6 +1,6 @@
 # Automation testing videos of Mobile and Web Application.
 
-# Mobile UI Testing:
+# iOS Mobile UI Testing:
 iOS Automated Testing using; Python, Appium and Selenium.
 I developed a simple iOS Application using Swift in Xcode, just to provide a basic validation run (Smoke Testing).
 
