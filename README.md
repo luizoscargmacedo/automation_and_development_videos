@@ -14,7 +14,7 @@ I had the opportunity to develop this app, and help patients with CRPS (Complex 
 
 # Automation testing videos of Mobile and Web Application.
 
-# iOS Mobile UI Testing:
+## iOS Mobile UI Testing:
 iOS Automated Testing using; Python, Appium and Selenium.
 I developed a simple iOS Application using Swift in Xcode, just to provide a basic validation run (Smoke Testing).
 
@@ -24,7 +24,7 @@ I developed a simple iOS Application using Swift in Xcode, just to provide a bas
 -------------------------------
 
 
-# React Native (Part 1): Automation Study
+## React Native (Part 1): Automation Study
 Mobile; iOS and Android Testing on React Native app.
 
 I modified one specific project that I found (Airbnb app), just to understand better the structure of functionalities and configuration (button, image, id, header, label, code and etc), consequently creating a better automation testing with quality validation (in the next post I will share the React Native app automation).
@@ -35,7 +35,7 @@ I modified one specific project that I found (Airbnb app), just to understand be
 -------------------------------
 
 
-# React Native (Part 2): Smoke testing 
+## React Native (Part 2): Smoke testing 
 Mobile UI; iOS Automated Testing using Python, Appium and Selenium.
 
 The corMood App (React Native) used in this video was developed by Caio Reis (Software Engineer); https://lnkd.in/dweDr8P 
@@ -46,7 +46,7 @@ The corMood App (React Native) used in this video was developed by Caio Reis (So
 -------------------------------
 
 
-# React Native (Part 3): Negative Testing Scenario
+## React Native (Part 3): Negative Testing Scenario
 Invalid Identifier; I reconfigured some positional arguments (email and password) with empty fields (text, id and class). 
 
 Mobile UI; iOS Automated Testing using Python, Appium and Selenium (Behave Directory Structure)
@@ -60,7 +60,7 @@ Results (Allure Framework); error identified and registered on Allure Report.
 -------------------------------
 
 
-# Web Application Automated Testing using Ruby, Capybara with Cucumber
+## Web Application Automated Testing using Ruby, Capybara with Cucumber
 Running Selenium tests using Ruby, with Cucumber and Capybara. It follows Behavior Driven Development (BDD) methodology, this "Automation Testing" has an invalid ID on the fourth step of "Login Scenario", just to simulate better a specific situation when we can identify some error during the report validation.
 
 I am always striving and studying to improve the ability to recommend several different possible approaches, using different combinations of testing tools and techniques with Agile Testing methods.
@@ -73,7 +73,7 @@ Results registered on Cucumber (Basic Report)
 -------------------------------
 
 
-# Executing Test on Real Device for Android using Python
+## Executing Test on Real Device for Android using Python
 Mobile automation simplified on real and virtual device; Android Automated Testing using Python, Appium and Selenium. I developed a simple scenario just to provide a basic validation run (Smoke Testing).
 
 Results report (Allure Framework).
@@ -84,7 +84,7 @@ Results report (Allure Framework).
 -------------------------------
 
 
-# Mutation Testing using Java, JUnit and Maven
+## Mutation Testing using Java, JUnit and Maven
 PIT runs your unit tests against automatically modified versions of your application code. When the application code changes, it should produce different results and cause the unit tests to fail. If a unit test does not fail in this situation, it may indicate an issue with the test suite.
 
 The quality of your tests can be gauged from the percentage of mutations killed.
