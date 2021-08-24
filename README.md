@@ -1,3 +1,17 @@
+
+# Mobile Application Development.
+
+## Reco7 Left/Right Recognition Program (React Native; iOS and Android).
+Languages: French and English.
+I had the opportunity to develop this app, and help patients with CRPS (Complex Regional Pain Syndrome) and the first stage of the GMI (Graded Motor Imagery) for a Health Product in Quebec, Canada.
+
+- url (English):https://www.linkedin.com/feed/update/urn:li:activity:6828303761828519936/
+- url (French):https://www.linkedin.com/feed/update/urn:li:activity:6828306069308116992/
+
+
+-------------------------------
+
+
 # Automation testing videos of Mobile and Web Application.
 
 # iOS Mobile UI Testing:
